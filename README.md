@@ -24,7 +24,8 @@ Built a clone of Hacker News website.
 
 ---
 
-Professional Experience:
+Professional Experiences:
+
 Graphic Designer | Digital Sign Print | [Jul 2022 - June 2023]
 
 - Designing business card, flyers, banners using Photoshop and Illustrator
