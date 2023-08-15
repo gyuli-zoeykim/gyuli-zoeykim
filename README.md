@@ -1,9 +1,7 @@
 ### Full Stack Developer ✨
 I'm excited to start my journey as a developer!😊
 
-While I may not have extensive professional experience yet, I have been working on personal project to sharpen my skills. I enjoy the challenges of coding and not afraid to learn and implement new methods.
-
-My journey as a developer is just beginning, and I'm eager to contribute to the developer community and make a positive impact through my work. I'm open to feedback and always ready to improve and grow as a developer.
+While I may not have extensive professional experience yet, I have been working on personal projects to sharpen my skills. I enjoy the challenges of coding and not afraid to learn and implement new methods.
 
 ---
 
