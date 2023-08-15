@@ -1,5 +1,3 @@
-## gyuli-zoeykim
-
 ### Full Stack Developer ✨
 I'm excited to start my journey as a developer!😊
 
