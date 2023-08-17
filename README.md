@@ -5,12 +5,22 @@ While I may not have extensive professional experience yet, I have been working 
 
 ---
 
-Technical Skills:
+#### Things I used for my projects:
 
-- Front-end: React, JavaScript, HTML5, CSS3
-- Back-end: Node.js, Express
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ---
+
+#### Projects:
 
 🔸 dog-friendly | [GitHub](https://github.com/gyuli-zoeykim/dog-friendly) | [Figma](https://www.figma.com/file/1AjhvXajgU3jWRjsQQBw9C/Gyuli-Kim---Final-Project?type=design&node-id=1%3A3&mode=design&t=K18sViL8k7hP4OWh-1) | [Live](https://dog-friendly.gyulizoeykim.com/)
 
@@ -22,7 +32,7 @@ Built a clone of Hacker News website.
 
 ---
 
-Professional Experiences:
+#### Professional Experiences:
 
 Graphic Designer | Digital Sign Print | [Jul 2022 - June 2023]
 
@@ -43,7 +53,8 @@ App Content Design Assistant | Tour Platform | [Nov 2017 - Jan 2018]
 
 ---
 
-Education:
+#### Education:
+
 Full-Stack Web Development Program | Learning Fuze |
 
 Bachelor of Arts, Seoul Women's University
