@@ -37,29 +37,3 @@ Built a clone of Hacker News website.
 
 ---
 
-#### Professional Experiences:
-
-Graphic Designer | Digital Sign Print | [Jul 2022 - June 2023]
-
-- Designing business card, flyers, banners using Photoshop and Illustrator
-- Consulting with new business owners to create company logo for branding
-
-Production and Design Assistant | The Moon Clothing | [Jun 2018 - May 2022]
-
-- Managed website by monitoring selling, updating banner and product for online sales.
-- Coordinated with sales to determine production cost, q’ty and delivery date.
-- Instructed factory vendors to buy fabrics, trims and fit check for buyer’s approval
-- Created and Managed work-in-progress file to input and share production data with team
-
-App Content Design Assistant | Tour Platform | [Nov 2017 - Jan 2018]
-
-- Collected elementary math curriculum data to create App content
-- Designed App content and assisted Head designer with character design
-
----
-
-#### Education:
-
-Full-Stack Web Development Program | Learning Fuze |
-
-Bachelor of Arts, Seoul Women's University
