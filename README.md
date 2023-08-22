@@ -27,7 +27,7 @@ While I may not have extensive professional experience yet, I have been working 
 
 #### Projects:
 
-🔸 dog-friendly | [GitHub](https://github.com/gyuli-zoeykim/dog-friendly) | [Figma](https://www.figma.com/file/1AjhvXajgU3jWRjsQQBw9C/Gyuli-Kim---Final-Project?type=design&node-id=1%3A3&mode=design&t=K18sViL8k7hP4OWh-1) | [Live](https://dog-friendly.gyulizoeykim.com/)
+🔸 dog-friendly | [GitHub](https://github.com/gyuli-zoeykim/dog-friendly) | [Figma](https://www.figma.com/file/1AjhvXajgU3jWRjsQQBw9C/Gyuli-Kim---Final-Project?type=design&node-id=1%3A3&mode=design&t=K18sViL8k7hP4OWh-1) | [Live](https://dog-friendly.gkim.dev/)
 
 Built a webapp where user can search, view detail and save dog-friendly places.
 
