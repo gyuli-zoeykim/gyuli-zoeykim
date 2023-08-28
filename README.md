@@ -2,9 +2,7 @@
 
 ### :wave: Hi there!
 
-#### My name is Gyuli. I'm excited to start my journey as a developer 😊
-
-While I may not have extensive professional experience yet, I have been working on personal projects to sharpen my skills on building responsive websites using a combination of React.js, JavaScript, HTML, and CSS. I enjoy the challenges of coding and not afraid to learn and implement new methods.
+#### My name is Gyuli. 
 
 #### :point_right: Let's connect...[LinkedIn](https://www.linkedin.com/in/gyulikimwork/)
 
