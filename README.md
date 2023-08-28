@@ -4,7 +4,7 @@
 
 #### My name is Gyuli. I'm excited to start my journey as a developer 😊
 
-While I may not have extensive professional experience yet, I have been working on personal projects to sharpen my skills. I enjoy the challenges of coding and not afraid to learn and implement new methods.
+While I may not have extensive professional experience yet, I have been working on personal projects to sharpen my skills on building responsive websites using a combination of React.js, JavaScript, HTML, and CSS. I enjoy the challenges of coding and not afraid to learn and implement new methods.
 
 #### :point_right: Let's connect...[LinkedIn](https://www.linkedin.com/in/gyulikimwork/)
 
@@ -26,6 +26,10 @@ While I may not have extensive professional experience yet, I have been working 
 ---
 
 #### Projects:
+
+🔸 yosemite-park| [GitHub](https://github.com/gyuli-zoeykim/yosemite-park) | [Live](https://gyulizoeykim.com/)
+
+Inspired by recent trip at yosemite national park, I built a yosemite national park introductory website.
 
 🔸 dog-friendly | [GitHub](https://github.com/gyuli-zoeykim/dog-friendly) | [Figma](https://www.figma.com/file/1AjhvXajgU3jWRjsQQBw9C/Gyuli-Kim---Final-Project?type=design&node-id=1%3A3&mode=design&t=K18sViL8k7hP4OWh-1) | [Live](https://dog-friendly.gkim.dev/)
 
