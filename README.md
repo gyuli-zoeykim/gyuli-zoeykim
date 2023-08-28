@@ -1,4 +1,4 @@
-## :computer: Full Stack Developer 
+## :computer: Software Engineer
 
 ### :wave: Hi there!
 
