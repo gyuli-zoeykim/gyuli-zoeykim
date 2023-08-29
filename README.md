@@ -41,7 +41,7 @@ Utilizing Figma to plan and design for user-friendly interfaces.
 
 3. Dog Friendly | [GitHub](https://github.com/gyuli-zoeykim/dog-friendly) | [Figma](https://www.figma.com/file/1AjhvXajgU3jWRjsQQBw9C/Gyuli-Kim---Final-Project?type=design&node-id=1%3A3&mode=design&t=K18sViL8k7hP4OWh-1) | [Live](https://dog-friendly.gkim.dev/)
 
-* Built a webapp where user can search, view detail and save dog-friendly places. I adopted a puppy few months ago, which inspired me to make this webapp.
+* Built a web app where user can search, view detail and save dog-friendly places. I adopted a puppy few months ago, which inspired me to make this web app.
 
 ---
 
