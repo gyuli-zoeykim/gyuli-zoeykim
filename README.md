@@ -6,9 +6,9 @@
 
 The idea of creating interactive and visually appealing websites and applications that can be shared through out the world excites me. I enjoy the challenges of coding and not afraid to learn and implement new methods.
 
-Main Skills on building responsive websites using a combination of React.js, JavaScript, HTML, and CSS.
+Major Skills for building responsive websites [ React.js, JavaScript, HTML5, and CSS3 ].
 
-Utilizing Figma to plan and design for user-friendly interfaces.
+Utilizing [ Figma ] to plan and design for user-friendly interfaces.
 
 #### :point_right: Let's connect...[LinkedIn](https://www.linkedin.com/in/gyulikimwork/)
 
@@ -36,7 +36,7 @@ Utilizing Figma to plan and design for user-friendly interfaces.
 
 1. Yosemite Park | [GitHub](https://github.com/gyuli-zoeykim/yosemite-park) | [Live](https://gyulizoeykim.com/)
 
- * Built a yosemite national park introductory website. Inspired by a recent family trip at yosemite national park.
+ * Built a Yosemite National Park informational website, inspired by a recent family trip.
 
 2. Clone of Hacker News | [GitHub](https://github.com/gyuli-zoeykim/clone-hackernews) | [Figma](https://www.figma.com/file/XARrsdqScnFAbIy6mqT3gf/Gyuli-Kim---clone-HackerNews?type=design&node-id=10672-3&mode=design&t=n0hevOL8O03GnXu5-0) | [Live](https://gyulizoeykimwork.com/)
 
@@ -44,7 +44,7 @@ Utilizing Figma to plan and design for user-friendly interfaces.
 
 3. Dog Friendly | [GitHub](https://github.com/gyuli-zoeykim/dog-friendly) | [Figma](https://www.figma.com/file/1AjhvXajgU3jWRjsQQBw9C/Gyuli-Kim---Final-Project?type=design&node-id=1%3A3&mode=design&t=K18sViL8k7hP4OWh-1) | [Live](https://dog-friendly.gkim.dev/)
 
-* Built a web app where user can search, view detail and save dog-friendly places. I adopted a puppy few months ago, which inspired me to make this web app.
+* Built a web app where users can search, view detail and save dog-friendly places. I adopted a puppy a few months ago, which inspired me to create this web app.
 
 ---
 
