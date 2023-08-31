@@ -12,7 +12,8 @@ Utilizing [ Figma ] to plan and design for user-friendly interfaces.
 
 #### :point_right: Let's connect...[LinkedIn](https://www.linkedin.com/in/gyulikimwork/)
 
-#### :file_folder: Resume [Gyuli_Kim_Resume.pdf](https://github.com/gyuli-zoeykim/gyuli-zoeykim/files/12480340/Gyuli_Kim_Resume.pdf)
+#### :file_folder: Resume [Gyuli_Kim_Resume.pdf](https://github.com/gyuli-zoeykim/gyuli-zoeykim/files/12483572/Gyuli_Kim_Resume.pdf)
+
 
 
 ---
