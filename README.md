@@ -4,7 +4,7 @@
 
 #### My name is Gyuli. I'm excited to start my journey as a developer!
 
-The idea of creating interactive and visually appealing websites and applications that can be shared through out the world excited me. I enjoy the challenges of coding and not afraid to learn and implement new methods.
+The idea of creating interactive and visually appealing websites and applications that can be shared through out the world excites me. I enjoy the challenges of coding and not afraid to learn and implement new methods.
 
 Main Skills on building responsive websites using a combination of React.js, JavaScript, HTML, and CSS.
 
