@@ -2,13 +2,9 @@
 
 ### :wave: Hi there!
 
-#### My name is Gyuli. I'm excited to start my journey as a developer!
-
-The idea of creating interactive and visually appealing websites and applications that can be shared through out the world excites me. I enjoy the challenges of coding and not afraid to learn and implement new methods.
-
-Major Skills for building responsive websites [ React.js, JavaScript, HTML5, and CSS3 ].
-
-Utilizing [ Figma ] to plan and design for user-friendly interfaces.
+#### My name is Gyuli. I am a Full Stack Web Developer.
+#### I enjoy the challenges of coding and find learning new methods rewarding.
+#### My goal as developer is to continuously grow, proactively seeking feedback and be a good team worker.
 
 #### :point_right: Let's connect...[LinkedIn](https://www.linkedin.com/in/gyulikimwork/)
 
@@ -21,9 +17,10 @@ Utilizing [ Figma ] to plan and design for user-friendly interfaces.
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
