@@ -4,7 +4,7 @@
 
 ##### My name is Gyuli. I am a Full Stack Web Developer.
 ##### I enjoy the challenges of coding and find learning new methods rewarding.
-##### My goal as developer is to continuously grow, proactively seeking feedback and be a good team worker.
+##### My goal as developer is to continuously grow, proactively seeking feedback and being a teamplayer.
 
 #### :point_right: Let's connect...[LinkedIn](https://www.linkedin.com/in/gyulikimwork/)
 
